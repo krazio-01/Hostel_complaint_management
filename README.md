@@ -10,7 +10,6 @@ Feature 3: Made using core java concepts.
 
 Installation
 To run this project locally, please follow these steps:
-
 Clone the GitHub repository to your local machine.
 Open NetBeans IDE and select "Open Project" from the "File" menu.
 Navigate to the cloned repository directory and select the project.
@@ -30,7 +29,6 @@ Save the changes.
 
 Usage
 Once the project is successfully installed and configured, you can use the application by following these steps:
-
 Run application through the file named "starting.java".
 The application's user interface will be displayed.
 Follow the on-screen instructions to interact with the application.
