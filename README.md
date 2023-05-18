@@ -1,4 +1,4 @@
-# Hostel_complaint_management_system
+# Hostel Complaint Management System
 
 Description
 This project is a Java application developed using the NetBeans IDE. It utilizes MySQL as the backend database for storing and retrieving data. The project files available in the GitHub repository include the Java project, the database file, and all the necessary dependencies.
